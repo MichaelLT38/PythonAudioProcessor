@@ -11,5 +11,5 @@ python .\audio_processor.py
 
 Build executable:
 ```bash
-pyinstaller --onefile .\audio_processor.py
+pyinstaller --onefile --windowed .\audio_processor.py
 ```
